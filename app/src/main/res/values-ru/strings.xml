@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Name: Alexis Y. Barriera Pacheco
+Student Id: 843-22-3478
+Date: 27/9/2026
+-->
+<resources>
+    <string name="app_name">Итоговый калькулятор</string>
+    <string name="enter_amount1">Введите сумму</string>
+    <string name="enter_amount">Введите сумму</string>
+    <string name="tax">Налог (11,5%)</string>
+    <string name="total">Итого</string>
+</resources>
